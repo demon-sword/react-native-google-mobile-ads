@@ -63,6 +63,7 @@ extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_LOADED;
 extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_ERROR;
 extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_OPENED;
 extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_CLICKED;
+extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_IMPRESSION;
 extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_CLOSED;
 extern NSString *_Nonnull const GOOGLE_MOBILE_ADS_EVENT_APP_EVENT;
 
